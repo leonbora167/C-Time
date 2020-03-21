@@ -4,4 +4,4 @@
 -Just Trying to do anything and everything, single program in C.
 
 1. Decimal to Binary Conversion
-2.Binary to Decimal Conversion
+2. Binary to Decimal Conversion
