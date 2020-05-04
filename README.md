@@ -7,3 +7,5 @@
 2. Binary to Decimal Conversion
 3. Bitwise Operators and Conversions
 4. Searching Algorithms using Arrays
+5. Simple Matrix Operations
+6. Linked List Basic Operations
